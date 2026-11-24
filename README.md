@@ -2,7 +2,7 @@
 
 TechZone is a desktop e-commerce UI design for a premium electronics store, designed in Figma on a 1440px grid. This repository documents the complete design: full-length captures of every screen and links to the live Figma project.
 
-## Team
+## 👥 Team Members
  
 | #   | Name                                   | Section    |  GitHub                                                     |
 | --- | -------------------------------------- | ---------- | ----------------------------------------------------------  |
